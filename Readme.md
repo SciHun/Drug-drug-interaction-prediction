@@ -1,5 +1,5 @@
 
-I collaborated on this study with my final-term pharmacy students, 🔬Ayse Meliha Varol and Hacer Ince 🔬. They actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
+I collaborated on this study with my final-term pharmacy students, 👩‍🔬Ayse Meliha Varol and 👩‍🔬Hacer Ince. They actively contributed by writing code, performing data cleaning, and assisting with model assessments using JupyterLab.
 
 This project presents a machine learning-based tool that predicts drug–drug interactions and possible side effects using Morgan fingerprints generated from SMILES representations.
 

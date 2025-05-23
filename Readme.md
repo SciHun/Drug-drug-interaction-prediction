@@ -32,6 +32,8 @@ ROC Curve
 Prediction Distribution
 
 ## 💡 Authors
-🔬 Harun Un, PhD – Clinical Biochemist & Data Scientist  
+🔬 Harun Un, PhD – Clinical Biochemist & Data Scientist
+
 🔬 Hacer Ince, BSc – Pharmacist
+
 🔬 Ayse Meliha Varol, BSc – Pharmacist

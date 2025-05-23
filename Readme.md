@@ -33,6 +33,5 @@ Prediction Distribution
 
 ## 💡 Authors
 🔬 Harun Un, PhD – Clinical Biochemist & Data Scientist  
-🔬 Ayse Meliha Varol, BSc – Pharmacist
 🔬 Hacer Ince, BSc – Pharmacist
-
+🔬 Ayse Meliha Varol, BSc – Pharmacist

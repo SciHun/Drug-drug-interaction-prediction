@@ -30,3 +30,9 @@ Feature extraction: RDKit-based Morgan Fingerprints (4096 bits)
 📊 Visualizations
 ROC Curve
 Prediction Distribution
+
+## 💡 Authors
+🔬 Harun Un, PhD – Clinical Biochemist & Data Scientist  
+🔬 Ayse Meliha Varol, BSc – Pharmacist
+🔬 Hacer Ince, BSc – Pharmacist
+
